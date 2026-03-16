@@ -66,7 +66,8 @@ This vunlerability can lead too
 - **Website Defacement**: Attackers modify webpage content in real time.
 - **Action Execution**: Attackers force browsers to perform unauthorized actions.
 
-## Medium – CVSS ≈ 5.4–6.1
+## Medium – CVSS ≈ 4.1–5.3
+
 
 ---
 Report prepared by:  **zer0arc4**
